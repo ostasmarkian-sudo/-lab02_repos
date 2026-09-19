@@ -14,5 +14,5 @@ int main()
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
 	cin.get(); // очікування натискання клавіші
-	return 0;
+	return 0; //завершення програми
 }
