@@ -16,4 +16,5 @@ int main()
 	cout << "Difference = " << z1 - z2 << endl;
 	cin.get(); // очікування натискання клавіші
 	return 0;
-}
+	_aadd_i32 ола
+} 
