@@ -13,7 +13,7 @@ int main()
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
 	cout << "z2 = " << z2 << endl;
-	cout << "Difference = " << z1 - z2 << endl; // виведення результатів
+	cout << "Difference = " << z1 - z2 << endl; // ріщниця між результатами обчислення 1-го та 2-го виразів
 	cin.get(); // очікування натискання клавіші
 	return 0;
 }
